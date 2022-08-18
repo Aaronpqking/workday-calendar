@@ -12,3 +12,8 @@ The theme, colors and layout are all bootstrap. The font is from google fonts. M
 I can improve on the functionality of this prject if looking for a more expansive use of the calendar. 
 
 Shout out to Sean C and Bryan H for your insights on this one. 
+
+
+
+
+![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/106622740/185289549-25149fd7-8e2e-4bc6-b296-a19d6e5a5d57.gif)
