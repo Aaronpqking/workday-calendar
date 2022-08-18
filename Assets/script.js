@@ -35,28 +35,3 @@ function write() {
   }
 }
 
-// // var input = document.getElementById("event").value;
-// var time = document.getElementById("time").innerText;
-// var date = moment().format("L");
-// var display = localStorage.getItem(date + " " + time);
-// // document.getElementById("event").value = display;
-// var event = (localStorage.getItem(date + " " + time, "input"));
-
-// var  = document.querySelector(".questionBox");
-// var quizComplete = document.querySelector(".quiz-complete-screen");
-
-// var answerlist = document.createElement("ul");
-// function createcalendar() {
-//     questionprompt.innerHTML = q;
-//     answerlist.setAttribute("id", "answerlist");
-//     answerBox.appendChild(answerlist);
-
-// for (var i = 0; i < quiz[questionCount].answerchoices.length; i++) {
-//   var li = document.createElement("li");
-//   li.innerText = quiz[questionCount].answerchoices[i];
-//   answerlist.appendChild(li);
-// }
-
-// var eightam = localStorage.getItem(date + " " + "8:00am");
-// document.getElementById("8:00am").value= eightam;
-// // console.log(eightam);
